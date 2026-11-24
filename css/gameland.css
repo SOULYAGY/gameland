@@ -100,22 +100,22 @@ button {
   width: 218px;
 }
 
-.marquee{
+.marquee {
   width: 30%;
 }
 
-.location-image{
+.location-image {
   width: 100%;
   height: 70%;
   object-fit: cover;
-  
 }
 
-.text{display: grid;
-padding: 2em 2em;}
+.text {
+  display: grid;
+  padding: 2em 2em;
+}
 
-
-.extra{
+.extra {
   display: flex;
   width: 100%;
   margin-top: 210px;
@@ -123,11 +123,42 @@ padding: 2em 2em;}
   background-color: rgb(16, 15, 15);
 }
 
-.footertext{color: white;}
-
-.imagecont{width: 20%;
+.footertext {
+  color: white;
 }
 
-.favicon{
-  width: 40%;
+.subbutton {
+  width: 180px;
+  height: 35px;
+  color: white;
+  background-color: rgb(240, 57, 182);
+  border-style: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.mailbox {
+  width: 175px;
+  height: 30px;
+  border-style: none;
+  outline-style: none;
+}
+
+.imagecont {
+  width: 20%;
+}
+
+.formcont {
+  width: 30%;
+  margin-top: 40px;
+  margin-right: 30px;
+}
+.favicon {
+  margin-top: 100px;
+  width: 20%;
+}
+
+.footer-image{width: 34%;
+margin-left: 160px;
+object-fit: cover;
 }
