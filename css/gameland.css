@@ -115,3 +115,19 @@ button {
 padding: 2em 2em;}
 
 
+.extra{
+  display: flex;
+  width: 100%;
+  margin-top: 210px;
+  height: 260px;
+  background-color: rgb(16, 15, 15);
+}
+
+.footertext{color: white;}
+
+.imagecont{width: 20%;
+}
+
+.favicon{
+  width: 40%;
+}
